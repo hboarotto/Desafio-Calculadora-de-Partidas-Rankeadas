@@ -1,12 +1,7 @@
 // inicio do desafio de Calculadora de Partidas Rankeadas 
 
-
-// criando variaveis 
-
-
-
-
-
+let numVitorias = 10
+let numDerrotas = 5
 // criando função 
 
 function somar(numVitorias , numDerrotas){
